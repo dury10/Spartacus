@@ -1,5 +1,5 @@
  <img src="https://github.com/DraftShift/StealthChanger/blob/main/media/Stealthchanger_toolchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
-**Tool changing system for Vorons and other front mount printer motion systems.**
+**Tool changing system for Sovol / Vorons and other front mount printer motion systems.**
 
 Here you can find Back Plates to can install Spartacus the toolhead on your Stealt-Changer
 keep an eye on this repository more updates to come!
