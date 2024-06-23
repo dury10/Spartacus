@@ -451,3 +451,4 @@ we are missing the 3010 hotend fan but you get the idea this is how it supposed 
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/IMAGES/spartacus_assembly/29.jpeg"  />
 </div>
+
