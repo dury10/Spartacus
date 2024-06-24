@@ -5,11 +5,11 @@ Here you can find Back Plates to can install Spartacus the toolhead on your Stea
 keep an eye on this repository more updates to come!
 
 <div align="center">
-  <img style="max-width: 30%;" src="[https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/2.png]"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/2.png"  />
 </div>
 
 <div align="center">
-  <img style="max-width: 30%;" src="[https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7.png]"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7.png"  />
 </div>
 
 
