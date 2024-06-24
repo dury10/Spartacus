@@ -62,33 +62,36 @@ I didn’t crafted all the parts that I have used to create this toolhead. I jus
 
 ### Fans:
 
-- 1 x 3010 GDS Time 12000 rpm Fan
-- 2 x 4010 GDS Time Blower Fan (12000 rpm dual ball bearing recommended for optimal cooling)
-- 2 x Neopixel LED lights (Addressable LEDs)
+- 1 x 3010 GDS Time 12000 rpm Fan  https://s.click.aliexpress.com/e/_Dd0TMzH 
+- 2 x 4010 GDS Time Blower Fan (12000 rpm dual ball bearing recommended for optimal cooling) https://s.click.aliexpress.com/e/_DevBF23 
 
-### Hotend Components:
+### Hotend Components: For the Cheapest way posible hotend up to 32mm3/s without bumping the themperature if you want more use Rapidon 
 
-- 1 x V6 Heat Sink
-- 1 x BiMetal Heat Break
-- 1 x T-Volcano Heat Block 
-- 1 x Volcano Cht Nozzle
-- 1 x 65W Heater Cartridge (or higher)
-- 1 x Thermistor Cartridge for V6 Volcano Heater Block 3x15 (PT100 style)
-- 1 x Nema 14 Pancake Stepper Motor
-- 1 x BMG Dual Driver Gear Kit
+- 1 x V6 Heat Sink (light weight) https://s.click.aliexpress.com/e/_DdVmCRp 
+- 1 x BiMetal Heat Break https://s.click.aliexpress.com/e/_DdDpmGx 
+- 1 x T-Volcano Heat Block https://s.click.aliexpress.com/e/_DdFLdPd
+- 1 x Volcano Cht Nozzle https://s.click.aliexpress.com/e/_DFfottp
+- 1 x Volcano CHT Hard Nozzle  https://s.click.aliexpress.com/e/_DD5d2Bh Best Budget nozzle 
+- 1 x 65W Heater Cartridge (or higher) https://s.click.aliexpress.com/e/_DB6KBBH
+- 1 x Thermistor Cartridge for V6 Volcano Heater Block 3x15 (PT100 style) NTC 100K M3950 up to 320c https://s.click.aliexpress.com/e/_DDBx7IL
+- 1 x Nema 14 Pancake Stepper Motor https://s.click.aliexpress.com/e/_Dk2jz6F 
+- 1 x BMG Dual Driver Gear Kit https://s.click.aliexpress.com/e/_DFUPonD 
 - 1 x 30mm PTFE Tube 1.9mm ID 4mm OD
-- 2 x Round PCB LED (WRGB, RGB, RGBW, WWRGB, etc.)
+- 2 x Round PCB LED (WRGB, RGB, RGBW, WWRGB, etc.)  https://s.click.aliexpress.com/e/_DCkqzJz
+- 1 x Ebb 36 Can boad https://s.click.aliexpress.com/e/_DkBHGcb 
 
 ### Optional Add-ons:
 
-- Piggyback/Breakout Board ($9) or Can Board ($20) for additional functionality
+- Piggyback/Breakout Board ($9) 
 - End caps for cable management based on your setup and chosen board
+- 1 x PT1000 Probe 3mm * 15mm Up to 450 Degree RTD 1m Platinum Thermal Resistance Sensor For 3D Printer Volcano/ V6 Heater Block https://s.click.aliexpress.com/e/_DeoYaER 
 
-### Nozzle Options (Optional, depending on preference):
+### Nozzle / Hotend Options (Optional, depending on preference):
 
-- T Volcano or NF Crazy Volcano Heat Block for easier nozzle changes and protect the heatbrake when printing at speeds.
-- Ceramic Heater or Revo High Flow for enhanced performance (cost considerations apply)
-- Rapido UHF added 
+- Volcano Cht Nozzle https://s.click.aliexpress.com/e/_DFfottp
+- Volcano CHT Hard Nozzle  https://s.click.aliexpress.com/e/_DD5d2Bh Best Budget nozzle 
+- Rapido UHF added https://s.click.aliexpress.com/e/_DdN6yC7  
+  
 ## Hardware:
 
 ### Heatset Inserts:
@@ -96,7 +99,7 @@ I didn’t crafted all the parts that I have used to create this toolhead. I jus
 - 1 x M3 x 5.7 x 4.5/4.6 Heatset Insert
 - 8 x M3 x 3 x 4.5 Heatset Insert
 
-### M3 Screws:
+### M3 Screws:  https://s.click.aliexpress.com/e/_DBdNTVD  
 
 - 3 x M3 x 6
 - 5 x M3 x 10
