@@ -23,7 +23,7 @@ keep an eye on this repository more updates to come!
         <tr> 
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/8.png"  />  </td> 
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/9.png"  /></td> 
-            <td> </td> 
+            <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/10.png" /> </td> 
         </tr> 
     </table> 
     
