@@ -83,7 +83,7 @@ I didn’t crafted all the parts that I have used to create this toolhead. I jus
 ### Optional Add-ons:
 
 - Piggyback/Breakout Board ($9) 
-- End caps for cable management based on your setup and chosen board
+- End caps for cable management based on your setup and chosen board an some cable management wrap 
 - 1 x PT1000 Probe 3mm * 15mm Up to 450 Degree RTD 1m Platinum Thermal Resistance Sensor For 3D Printer Volcano/ V6 Heater Block https://s.click.aliexpress.com/e/_DeoYaER 
 
 ### Nozzle / Hotend Options (Optional, depending on preference):
