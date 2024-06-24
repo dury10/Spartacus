@@ -3,19 +3,30 @@
 
 Here you can find Back Plates to can install Spartacus the toolhead on your Stealt-Changer
 keep an eye on this repository more updates to come!
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7%20Spartacus%20Stealth-Changer-462%20mm%20wide%20png.png"  />
+</div>
 
-
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/1.png"  />
+</div><div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/2.png"  />
+</div><div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/3.png"  />
+</div><div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/4.png"  />
+</div>
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/5.png"  />
 </div>
-
-
 <div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/2.png"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/6.png"  />
 </div>
-
 <div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7.png"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/8.png"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/9.png"  />
 </div>
 
 
