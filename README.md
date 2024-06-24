@@ -99,13 +99,13 @@ I didn’t crafted all the parts that I have used to create this toolhead. I jus
 - 1 x M3 x 5.7 x 4.5/4.6 Heatset Insert
 - 8 x M3 x 3 x 4.5 Heatset Insert
 
-### M3 Screws:  https://s.click.aliexpress.com/e/_DBdNTVD  
+### M3 Screws:  
 
 - 3 x M3 x 6
 - 5 x M3 x 10
 - 3 x M3 x 25
 - 1 x M3 Hex Nut
-
+M3  Screws Kit https://s.click.aliexpress.com/e/_DBdNTVD   
 
 #### This versatile and feature-packed 3D printer tool head provides an affordable solution for high-quality, high-speed printing, enhanced by Neopixel LED lights for improved visibility and dynamic print status updates.
 
