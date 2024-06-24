@@ -7,7 +7,7 @@ keep an eye on this repository more updates to come!
   <img style="max-width: 100%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7%20Spartacus%20Stealth-Changer-462%20mm%20wide%20png.png"  />
 </div>
 
-The Dock is 66mm Wide the Spartacus toolhead is 53 mm wide and 116 mm height  
+## The Dock is 66mm Wide the Spartacus toolhead is 53 mm wide and 116 mm height  
 <div align="center">
  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/11.png"  />
 </div>
