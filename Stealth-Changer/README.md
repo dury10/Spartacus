@@ -7,29 +7,26 @@ keep an eye on this repository more updates to come!
   <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7%20Spartacus%20Stealth-Changer-462%20mm%20wide%20png.png"  />
 </div>
 
-<div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/1.png"  />
-</div><div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/2.png"  />
-</div><div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/3.png"  />
-</div><div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/4.png"  />
-</div>
-<div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/5.png"  />
-</div>
-<div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/6.png"  />
-</div>
-<div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/8.png"  />
-</div>
-<div align="center">
-  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/9.png"  />
-</div>
 
-
+ <table border="0"> 
+        <tr> 
+            <th><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/1.png"  /></th> 
+            <th><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/2.png"  /></th> 
+            <th><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/3.png"  /></th> 
+        </tr> 
+        <tr> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/4.png"  /> 
+            </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/5.png"  /></td> 
+            <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/6.png"  /></td> 
+        </tr> 
+        <tr> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/8.png"  />  </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/9.png"  /></td> 
+            <td> </td> 
+        </tr> 
+    </table> 
+    
 * Here you can have hi-quality STL for Spartacus BMG
 https://www.printables.com/model/745412-spartacus-the-toolhead
 
