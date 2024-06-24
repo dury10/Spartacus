@@ -4,6 +4,14 @@
 Here you can find Back Plates to can install Spartacus the toolhead on your Stealt-Changer
 keep an eye on this repository more updates to come!
 
+<div align="center">
+  <img style="max-width: 30%;" src="[https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/2.png]"  />
+</div>
+
+<div align="center">
+  <img style="max-width: 30%;" src="[https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7.png]"  />
+</div>
+
 
 * Here you can have hi-quality STL for Spartacus BMG
 https://www.printables.com/model/745412-spartacus-the-toolhead
