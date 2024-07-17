@@ -49,6 +49,49 @@ Use 2x M3x4 to secure the heatsink but don't titen them yes
   <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/7.jpeg"  />
 </div>
 
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/7.jpeg"  />
+</div>
+
+# T-Volcano Heatsink/hotend 
+
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/1.jpeg"  />
+</div>
+
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/2.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/3.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/4.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/5.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/6.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/7.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/8.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/9.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/10.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/11.jpeg"  />
+</div>
+<div align="center">
+  <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/12.jpeg"  />
+</div>
 
 Now let's prepare the Part Cooling Fans. 
 
