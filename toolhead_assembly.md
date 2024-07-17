@@ -53,6 +53,8 @@ Use 2x M3x4 to secure the heatsink but don't titen them yes
   <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/7.jpeg"  />
 </div>
 
+# T-Volcano Heatsink/hotend 
+
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/IMAGES/spartacus_assembly/t-volcano-heat-sink/1.jpeg"  />
 </div>
