@@ -2,7 +2,7 @@
 
 Now we have added Rapido support so you dont need to do this mod fo the heatsink so skip to the assembly.
 And we have also added the posibility to use the Creality stile Heatsink that came with the T-Volcano heat block that we recommend. 
-https://github.com/dury10/Spartacus/edit/main/toolhead_assembly.md#t-volcano-heatsinkhotend
+https://github.com/dury10/Spartacus/blob/main/toolhead_assembly.md#t-volcano-heatsinkhotend
 
 
 
