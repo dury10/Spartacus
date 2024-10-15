@@ -24,8 +24,7 @@ Our file that are 100% open source and are work in progress. Spartacus BMG is fr
             <th><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/3.png"  /></th> 
         </tr> 
         <tr> 
-            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/4.png"  /> 
-            </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/4.png"  /> </td> 
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/5.png"  /></td> 
             <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/6.png"  /></td> 
         </tr> 
@@ -40,15 +39,15 @@ Our file that are 100% open source and are work in progress. Spartacus BMG is fr
             <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/3.png" /> </td> 
         </tr> 
               <tr> 
-            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/4.pngg"  />  </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/4.png"  />  </td> 
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/5.png"  /></td> 
-            <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/6.pngg" /> </td> 
+            <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/6.png" /> </td> 
         </tr> 
 
-          <tr> 
+            <tr> 
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/7.png"  />  </td> 
-            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/8.png"  /></td> 
-            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/9.png" /> </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/8.png"  /> </td> 
+            <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/9.png" /> </td> 
         </tr> 
 
 
