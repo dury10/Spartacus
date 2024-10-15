@@ -29,13 +29,34 @@ keep an eye on this repository more updates to come!
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/9.png"  /></td> 
             <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/10.png" /> </td> 
         </tr> 
+         <tr> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/1.png"  />  </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/2.png"  /></td> 
+            <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/3.png" /> </td> 
+        </tr> 
+              <tr> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/4.pngg"  />  </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/5.png"  /></td> 
+            <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/6.pngg" /> </td> 
+        </tr> 
+
+          <tr> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/7.png"  />  </td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/8.png"  /></td> 
+            <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/9.png" /> </td> 
+        </tr> 
+
+
     </table> 
     
+
+
 * Here you can have hi-quality STL for Spartacus BMG
 https://www.printables.com/model/745412-spartacus-the-toolhead
 
 * Here you can have hi-quality STL for Spartacus LGX
 https://www.printables.com/model/900809-spartacus-lgx
+
 
 
 
