@@ -44,14 +44,15 @@ Our file that are 100% open source and are work in progress. Spartacus BMG is fr
             <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/6.png" /> </td> 
         </tr> 
 
-            <tr> 
+<tr> 
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/7.png"  />  </td> 
             <td><img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/8.png"  /> </td> 
             <td> <img style="max-width: 30%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/short_dock/9.png" /> </td> 
-        </tr> 
+ </tr> 
 
 
-    </table> 
+
+</table> 
     
 
 
