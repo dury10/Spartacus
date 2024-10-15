@@ -3,6 +3,11 @@
 
 Here you can find Back Plates to can install Spartacus the toolhead on your Stealt-Changer
 keep an eye on this repository more updates to come!
+* I want to make this clear here you will find only the parts to can use Spartacus as a toolhead. 
+* The toolchanger sistem is not made by us and we don't want to take credit for it! This is the work of the DraftShift theam https://github.com/DraftShift/StealthChanger
+
+Our file that are 100% open source and are work in progress. Spartacus BMG is free and we have listed also the cad file for it. 
+
 <div align="center">
   <img style="max-width: 100%;" src="https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Media/7%20Spartacus%20Stealth-Changer-462%20mm%20wide%20png.png"  />
 </div>

@@ -3,7 +3,11 @@
 ![photo](./IMAGES/SPARTACUS_cover.png)
  
 Later edit : 
-added Rapido UHF as an option for the hotend
+added Rapido UHF as an option for the hotend 
+we have added Eddy Support 
+![photo](./IMAGES/eddy/1.png)
+![photo](./IMAGES/eddy/2.png)
+
 
 ### Hello Everyone 
 
